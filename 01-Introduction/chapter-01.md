@@ -1,13 +1,13 @@
 
 
-References:
-=============================
+# References:
 
 
-Textbook:
-=============================
+
+# Textbook:
 
 
-Solution Manual:
-=============================
+
+# Solution Manual:
+
 
