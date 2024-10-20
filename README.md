@@ -1,5 +1,5 @@
 # Database-Design--learning-journey
-My learning journey and self-study course on Database Design, based on:
+My learning journey and self-study of Database Design, based on:
 
 - **Introduction to database - Stanford - Jennifer Widom**\
   https://www.youtube.com/playlist?list=PLwAFU5NYqTLLMmtB1xuDioD0aeDB8_afe
